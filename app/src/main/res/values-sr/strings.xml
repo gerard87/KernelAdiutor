@@ -8,6 +8,7 @@
   <string name="collecting_info">Сакупљам податке</string>
   <string name="no_root">Нема роот приступа</string>
   <string name="no_busybox">Нема busybox-а</string>
+  <string name="open">Отвори %s</string>
   <!-- Security -->
   <string name="password">Лозинка</string>
   <string name="password_wrong">Лозинка је погрешна</string>
@@ -282,6 +283,7 @@
   <string name="network">Мрежа</string>
   <string name="tcp">ТЦП алгоритам загушења</string>
   <string name="hostname">Име домаћина</string>
+  <!-- Data Sharing -->
   <!-- Custom Controls -->
   <string name="title">Наслов</string>
   <string name="description">Опис</string>
