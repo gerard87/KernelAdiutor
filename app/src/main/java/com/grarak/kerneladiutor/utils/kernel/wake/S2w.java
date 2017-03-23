@@ -20,7 +20,6 @@
 package com.grarak.kerneladiutor.utils.kernel.wake;
 
 import android.content.Context;
-import android.widget.Toast;
 
 import com.grarak.kerneladiutor.R;
 import com.grarak.kerneladiutor.fragments.ApplyOnBootFragment;
